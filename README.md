@@ -7,9 +7,15 @@
 [![velog Badge](https://img.shields.io/badge/velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@ssi02121)
 <!-- [![Naver Blog Badge](https://img.shields.io/badge/Daily%20Blog-1eb031?style=flat&logoColor=white)]() -->
 
+### 📫 How to reach me:
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:testingbyseo@gmail.com)
 
+<br>
+<br>
 
 ### 👀 Skills
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testingbyseo&layout=compact"/>
+
 > **Languages**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -25,16 +31,13 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white)
 ![Ionic3](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testingbyseo&layout=compact"/>
-      
+
 ### 📚 Expeiences
 
 - 🇩🇪 Network Engineer @ Hyundai Autoever Europe GmbH<br> *2020.03(MnSoft) - 2021.09(Autoever)*
 - 🇩🇪 Internship @ Hyundai MnSOFT Europe<br> *2019.08 - 2019.12*
 - 🇰🇷 Bachelor of Computer Science<br> *2016.03 - 2020.02*
 
-### 📫 How to reach me: ...
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:testingbyseo@gmail.com)
 
 <!--
 **testingbyseo/testingbyseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
