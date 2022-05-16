@@ -5,7 +5,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftestingbyseo%2F&count_bg=%2393B9F3&title_bg=%2393B9F3&icon=&icon_color=%23D2C3C5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bkikis)](https://solved.ac/profile/bkikis)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:testingbyseo@gmail.com)
 [![velog Badge](https://img.shields.io/badge/velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@ssi02121)
 <!-- [![Naver Blog Badge](https://img.shields.io/badge/Daily%20Blog-1eb031?style=flat&logoColor=white)]() -->
 
@@ -32,7 +31,8 @@
 - 🇩🇪 Internship @ Hyundai MnSOFT Europe<br> *2019.08 - 2019.12*
 - 🇰🇷 Bachelor of Computer Science<br> *2016.03 - 2020.02*
 
-
+### 📫 How to reach me: ...
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:testingbyseo@gmail.com)
 
 <!--
 **testingbyseo/testingbyseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
