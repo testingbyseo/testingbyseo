@@ -13,26 +13,27 @@
 <br>
 <br>
 
-### 👀 Skills
+### 📚  Skills
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testingbyseo&layout=compact"/>
 
-> **Languages**
+> **Languages** 
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![AngularJs](https://img.shields.io/badge/AngularJs-E23237?style=flat-square&logo=AngularJs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![AngularJs](https://img.shields.io/badge/AngularJs-E23237?style=flat&logo=AngularJs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
 
 > **Platforms**
 
-![Spring boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white)
-![Ionic3](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white)
+![Spring boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white)
+![Ionic3](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=Ionic&logoColor=white)
 
+<br>
 
-### 📚 Expeiences
+### 👀  Experiences
 
 - 🇩🇪 Network Engineer @ Hyundai Autoever Europe GmbH<br> *2020.03(MnSoft) - 2021.09(Autoever)*
 - 🇩🇪 Internship @ Hyundai MnSOFT Europe<br> *2019.08 - 2019.12*
