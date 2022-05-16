@@ -1,6 +1,6 @@
 # 👩🏻‍💻  Bokyung Seo 
 
-<img width="450" align="right" src="https://github-readme-stats.vercel.app/api?username=testingbyseo&show_icons=true"/>
+<img width="430" align="right" src="https://github-readme-stats.vercel.app/api?username=testingbyseo&show_icons=true"/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftestingbyseo%2F&count_bg=%2393B9F3&title_bg=%2393B9F3&icon=&icon_color=%23D2C3C5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bkikis)](https://solved.ac/profile/bkikis)
